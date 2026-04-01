@@ -1,2 +1,7 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Debopriya (Debo) Banerjee. I am originally from Kolkata, India and I am currently based out of Atlanta, GA. I moved to Atlanta in 2014 and have been living with my family since then. I have a son (7 years old) and a daughter (2 years old) and my dog (3 years old). My dog is a white Golden Retriever. 
+
+I have ~19 years of experience in implementing Transportation and Compliance systems for global clients. I also have experience in ML and AL based product Pre-sales and Customer Support during my 2 years of work at a startup dealing with consumer intelligence. I currently work as a Senior Solution Architect at IBM Consulting.
+
+Apart from my work, I thoroughly enjoy being outdoor and playing cricket. I spend my time gardening whenever I can. I love to listen to almost any kind of music. I would like to learn how to play some instrument, preferably piano or guitar when I have some more time.
+
+I am currently learning and doing a lot of small projects in Machine Learning and Agentic AU.
